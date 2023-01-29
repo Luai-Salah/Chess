@@ -2,5 +2,6 @@
 {
     UNKNOWN,
     Black,
-    White
+    White,
+    Orange
 }
